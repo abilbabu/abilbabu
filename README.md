@@ -14,16 +14,17 @@
 
 ---
 
- ## 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working on a **Car Workshop Management Application**
-* 📱 Currently working primarily with **Flutter** for mobile application development
-* 🌐 Developing web applications using **Angular & React**
-* ⚙️ Building backend APIs using **PHP CodeIgniter 4, Java Spring & Python FastAPI**
-* 🤖 Currently learning and improving my skills in **Python, FastAPI, AI & Computer Vision**
-* 🌱 Interested in **Gaming**
-* 💬 Ask me about **Flutter, Angular, React & REST APIs**
-* 🤝 Open to collaborating on **Mobile & Web Development projects**
+- 🔭 Currently working on **Car Workshop Management Applications**
+- 🚀 **Currently working primarily with Flutter & Dart**
+- 📱 Building cross-platform mobile applications with **Flutter**
+- 🌐 Developing web applications using **Angular**
+- ⚙️ Building REST APIs using **PHP CodeIgniter 4 & Python FastAPI**
+- 🌱 Currently learning **Python, FastAPI, AI & Computer Vision**
+- 🎮 Interested in **Gaming & Game Development**
+- 💬 Ask me about **Flutter, Angular, React & REST APIs**
+- 🤝 Open to collaborating on **Mobile & Web Development projects**
 
 ---
 
@@ -258,32 +259,23 @@ Web-based CRM application using:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/abilbabu" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a></a>
-
-<a href="https://linkedin.com/in/abil-babu-47ab3727b" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="40"
-       height="40"
-       alt="LinkedIn"/>
-</a>
-
-<a></a>
-
-<a href="https://www.facebook.com/abilbabu.babu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-       width="40"
-       height="40"
-       alt="Facebook"/>
-</a>
-
+  <a href="https://github.com/abilbabu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abil-babu-47ab3727b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abilbabu.babu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         width="40" height="40" alt="Facebook"/>
+  </a>
 </p>
 
 ---
