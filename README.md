@@ -266,6 +266,8 @@ Web-based CRM application using:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a></a>
+
 <a href="https://linkedin.com/in/abil-babu-47ab3727b" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="40"
@@ -273,7 +275,7 @@ Web-based CRM application using:
        alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;
+<a></a>
 
 <a href="https://www.facebook.com/abilbabu.babu" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
